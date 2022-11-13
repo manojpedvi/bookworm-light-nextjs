@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bookworm Next | Personal Blog Theme",
+    "title": "10x Programming - All about software development. Learn tips & tricks",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_width": "48",
+    "logo_height": "48",
+    "logo_text": "10x Programming"
   },
 
   "settings": {
@@ -17,12 +17,12 @@
 
   "params": {
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a theme by [themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2022 Manoj Pedvi"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "Manoj Pedvi",
+    "meta_image": "/images/logo.png",
+    "meta_description": "Hi there! I am Manoj Pedvi. Programming is my passion and I work as a software engineer. I’ve been writing code professionally since 2011."
   }
 }
