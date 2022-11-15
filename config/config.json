@@ -1,9 +1,9 @@
 {
   "site": {
     "title": "10x Programming - All about software development. Learn tips & tricks",
-    "base_url": "/",
-    "favicon": "/images/favicon.ico",
-    "logo": "/images/logo.png",
+    "base_url": "https://10x-programming.com",
+    "favicon": "/images/favicon/favicon.ico",
+    "logo": "/images/favicon/apple-touch-icon.png",
     "logo_width": "48",
     "logo_height": "48",
     "logo_text": "10x Programming"

@@ -13,6 +13,10 @@
       "url": "/tags"
     },
     {
+      "name": "Newsletter",
+      "url": "/newsletter"
+    },
+    {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     },
@@ -23,10 +27,6 @@
   ],
   "footer": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "Categories",
       "url": "/categories"
     },
@@ -35,8 +35,16 @@
       "url": "/tags"
     },
     {
+      "name": "Newsletter",
+      "url": "/newsletter"
+    },
+    {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
+    },
+    {
+      "name": "About",
+      "url": "/about"
     }
   ]
 }
