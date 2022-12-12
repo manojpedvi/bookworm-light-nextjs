@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "10x Programming - All about software development. Learn tips & tricks",
-    "base_url": "https://10x-programming.com",
+    "title": "Everyday Tech - Latest tips, tricks & hacks on internet, technology, productivyt, softwares, mobile & web apps you use everyday",
+    "base_url": "https://everyday-tech.net",
     "favicon": "/images/favicon/favicon.ico",
     "logo": "/images/favicon/apple-touch-icon.png",
     "logo_width": "48",
     "logo_height": "48",
-    "logo_text": "10x Programming"
+    "logo_text": "Everyday Tech"
   },
 
   "settings": {

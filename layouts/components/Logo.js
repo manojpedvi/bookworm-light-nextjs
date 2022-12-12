@@ -8,7 +8,8 @@ const Logo = () => {
     config.site;
 
   return (
-    <Link href={base_url} passHref>
+    // <Link href={base_url} passHref>
+    <Link href="/" passHref>
       <a
         className="navbar-brand block"
         style={{

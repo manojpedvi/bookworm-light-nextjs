@@ -1,6 +1,6 @@
 ---
-title: Mark Dinn
-image: /images/authors/mark-dinn.jpg
+title: Manoj Pedvi
+image: /images/favicon/android-chrome-512x512.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
